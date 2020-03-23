@@ -10,5 +10,5 @@ published: true
 post_date: 2020-03-23 19:49:21
 ---
 <!-- wp:paragraph -->
-<p> <code>[nextend_social_login_register_flow]</code> </p>
+<p> <code>[nextend_social_login_register_flow]</code></p>
 <!-- /wp:paragraph -->
